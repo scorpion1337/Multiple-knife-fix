@@ -3,7 +3,7 @@ It will remove the multiple knives that may appear to you when you survive many 
 
 # Short presentation.
 
-As you may have noticed when you survive a round in a row, another knife will appear in your inventory and so on. (I think the limete is 3/4 knives). As it was bothering me, I got a resolution for that problem.
+As you may have noticed when you survive a round in a row, another knife will appear in your inventory and so on. (I think the limite is 3/4 knives). As it was bothering me, I got a resolution for that problem.
 
 # Installation.
 
